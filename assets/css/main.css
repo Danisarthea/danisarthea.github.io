@@ -1456,3 +1456,14 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.link-1 {
+  font-size: 24px;
+  transition: 0.8s ease;
+}
+.link-1:hover {
+  transition: 0.8s ease;
+  color: #272829;
+  font-size: 40px;
+  text-decoration: none;
+}
