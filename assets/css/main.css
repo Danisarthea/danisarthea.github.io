@@ -397,7 +397,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background-color: color-mix(in srgb, grey, transparent 20%);
+  background-color: color-mix(in srgb, black, transparent 20%);
   color: var(--contrast-color);
 }
 
