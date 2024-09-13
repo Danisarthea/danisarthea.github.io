@@ -352,14 +352,14 @@ h6 {
 
 #preloader:before {
   content: "Lagi Santai Kawan!";
-/*   position: fixed;
+  position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ffffff;
+/*   border: 6px solid #ffffff;
   border-color: var(--accent-color) transparent var(--accent-color) transparent;
-  border-radius: 50%;
+  border-radius: 50%; */
   width: 60px;
-  height: 60px; */
+  height: 60px;
   animation: animate-preloader 3s linear infinite;
 }
 
